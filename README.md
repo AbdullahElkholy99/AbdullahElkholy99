@@ -2,7 +2,7 @@
 
 ### 💻 Full Stack .NET Developer | Angular Enthusiast | Data Visualization Expert
 
-I'm a passionate developer specializing in building scalable web applications with **.NET** and **Angular**. Currently focused on creating impactful solutions in the education and assessment technology space.
+Full Stack Dot NET Developer specializing in Backend ASP Dot Net Core, AngularJS, and scalable enterprise applications. Experienced in building RESTful APIs, real-time applications with SignalR, and secure authentication systems using JWT. Strong background in Clean Architecture, CQRS, and performance optimization with hands-on experience delivering AI powered and healthcare platforms.
 
 ---
 
@@ -16,10 +16,10 @@ I'm a passionate developer specializing in building scalable web applications wi
 ### 🛠️ Tech Stack
 
 **Languages:**  
-`C#` `C++` `JavaScript` `TypeScript` `SQL`
+`C#` `C++` `JavaScript` `TypeScript`
 
 **Backend:**  
-`ASP.NET Core` `Entity Framework` `SignalR` `LINQ`
+`Entity Framework` `LINQ` `SignalR` `ASP.NET Core` `ASP.NET Core API` `ASP.NET Core MVC`
 
 **Frontend:**  
 `Angular` `HTML` `CSS`
@@ -55,7 +55,6 @@ I'm a passionate developer specializing in building scalable web applications wi
 
 ### 🌱 Currently Learning
 - Advanced Angular patterns and state management
-- Microservices architecture with .NET
 - Power BI advanced analytics and DAX
 
 ---
