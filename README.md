@@ -1,37 +1,66 @@
 ## Hi there 👋 I'm Abdullah Ali Elkholy
 
-### 💻 Full Stack .NET Developer | Angular Enthusiast | Data Visualization Expert
+### Full Stack .NET Developer | Angular Enthusiast | Data Visualization 
 
 Full Stack Dot NET Developer specializing in Backend ASP Dot Net Core, AngularJS, and scalable enterprise applications. Experienced in building RESTful APIs, real-time applications with SignalR, and secure authentication systems using JWT. Strong background in Clean Architecture, CQRS, and performance optimization with hands-on experience delivering AI powered and healthcare platforms.
 
 ---
 
-### 🔭 Current Projects
-- **E-Learning System** - Building a comprehensive learning management platform
-- **Online Exam System** - Developing a secure and efficient examination platform
-- **Power BI Dashboards** - Creating insightful data visualizations and analytics
+###  My Projects
+
+🔹 **Sillage e-Commerce**  
+Luxury fragrance e-commerce platform developed with ASP.NET Core MVC and SQL Server.
+
+🔹 **Gym Management System**  
+End-to-end gym management application for memberships, subscriptions, attendance, and trainer management.
+
+🔹 **PhysioCare Platform**  
+RESTful API powering a physiotherapy management system with authentication, appointment scheduling, and patient records.
+
+🔹 **MotorVerse Rental**  
+Full-stack motorcycle rental and accessories marketplace built with ASP.NET Core Web API, Angular, SignalR, and Hangfire.
 
 ---
-
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages:**  
-`C#` `C++` `JavaScript` `TypeScript`
+`C#` `C++` `JavaScript (ES6+)` `TypeScript`
 
 **Backend:**  
-`Entity Framework` `LINQ` `SignalR` `ASP.NET Core` `ASP.NET Core API` `ASP.NET Core MVC`
+`ASP.NET Core` `ASP.NET Core Web API` `ASP.NET Core MVC`
+`Entity Framework Core` `LINQ` `SignalR` `Hangfire`
 
 **Frontend:**  
-`Angular` `HTML` `CSS`
+`Angular` `HTML5` `CSS3` `Bootstrap 5` `jQuery`
 
 **Database:**  
 `SQL Server`
 
-**Tools & Practices:**  
-`Git` `Docker` `OOP` `SOLID Principles` `Data Structures` `Algorithms`
+**Architecture & Design Patterns:**  
+`OOP` `SOLID Principles`
+`Clean Architecture`
+`Onion Architecture`
+`Repository Pattern`
+`Unit of Work`
+`Design Patterns`
 
-**Data Visualization:**  
+**Tools & DevOps:**  
+`Git` `GitHub` `Docker`
+
+**Problem Solving:**  
+`Data Structures`
+`Algorithms`
+
+**Data Visualization & Analytics:**  
 `Power BI`
+
+**Software Engineering & API Development:**  
+`JWT Authentication`
+`RESTful APIs`
+`Swagger / OpenAPI`
+`Dependency Injection`
+`AutoMapper`
+`LLM Integration`
 
 ---
 
