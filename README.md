@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Abdullah Ali Elkholy
 
-### Full Stack .NET Developer | Angular Enthusiast | Data Visualization 
+### Full Stack Dot NET Developer | Angular Enthusiast 
 
 Full Stack Dot NET Developer specializing in Backend ASP Dot Net Core, AngularJS, and scalable enterprise applications. Experienced in building RESTful APIs, real-time applications with SignalR, and secure authentication systems using JWT. Strong background in Clean Architecture, CQRS, and performance optimization with hands-on experience delivering AI powered and healthcare platforms.
 
@@ -64,45 +64,41 @@ Luxury fragrance e-commerce platform developed with ASP.NET Core MVC, featuring 
 
 ---
 
-### 💼 Experience
+### Internship
 
-**Full Stack .NET Developer** | Professional Training  
-*Oct 2024 - Present*  
-- Building end-to-end web applications using ASP.NET Core and Angular
+**Web Designer** | NTI Menofia  
+*May 2025 - Jul 2025*  
+- Achieved 94% score in web development fundamentals
+- Focused on clean code practices and responsive design
 
 **Backend ASP.NET Developer** | ITI Suez  
 *Jul 2024 - Sep 2024*  
 - Developed Employee Management System with full CRUD operations
 - Optimized database queries using Entity Framework, reducing response time
 
-**Web Designer** | NTI Menofia  
-*May 2024 - Jul 2024*  
-- Achieved 94% score in web development fundamentals
-- Focused on clean code practices and responsive design
-
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 - Advanced Angular patterns and state management
-- Power BI advanced analytics and DAX
+- RAG - LM
 
 ---
 
-### 📫 Let's Connect!
-- 📧 Email: abdullah.ali.elkholy@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/abdullah-ali-elkholy](https://www.linkedin.com/in/abdullah-ali-elkholy/)
-- 📱 Phone: +201012613453
-- 📍 Location: Cairo, Egypt
+### Let's Connect!
+- Email: abdullah.ali.elkholy@gmail.com
+- LinkedIn: [linkedin.com/in/abdullah-ali-elkholy](https://www.linkedin.com/in/abdullah-ali-elkholy/)
+- Phone: +201012613453
+- Location: Cairo, Egypt
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahElkholy99&show_icons=true&theme=radical)
 
 ---
 
-⚡ **Fun fact:** I love solving complex problems with clean, efficient code!
+**Fun fact:** I love solving complex problems with clean, efficient code!
 
 ---
 
-💡 *Open to collaboration on .NET and Angular projects. Let's build something amazing together!*
+**Open to collaboration on .NET and Angular projects. Let's build something amazing together!*
