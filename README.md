@@ -19,6 +19,7 @@ RESTful API powering a physiotherapy management system with authentication, appo
 
 🌸 **Sillage e-Commerce**  
 Luxury fragrance e-commerce platform developed with ASP.NET Core MVC, featuring a modern shopping experience and an administrative dashboard.
+
 ---
 ### Tech Stack
 
