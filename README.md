@@ -8,18 +8,17 @@ Full Stack Dot NET Developer specializing in Backend ASP Dot Net Core, AngularJS
 
 ###  My Projects
 
-🔹 **Sillage e-Commerce**  
-Luxury fragrance e-commerce platform developed with ASP.NET Core MVC and SQL Server.
-
-🔹 **Gym Management System**  
-End-to-end gym management application for memberships, subscriptions, attendance, and trainer management.
-
-🔹 **PhysioCare Platform**  
-RESTful API powering a physiotherapy management system with authentication, appointment scheduling, and patient records.
-
-🔹 **MotorVerse Rental**  
+🏍️ **MotorVerse Rental**  
 Full-stack motorcycle rental and accessories marketplace built with ASP.NET Core Web API, Angular, SignalR, and Hangfire.
 
+🏋️ **Gym Management System**  
+End-to-end gym management application for memberships, subscriptions, attendance tracking, and trainer management.
+
+🏥 **PhysioCare Platform**  
+RESTful API powering a physiotherapy management system with authentication, appointment scheduling, treatment tracking, and patient records.
+
+🌸 **Sillage e-Commerce**  
+Luxury fragrance e-commerce platform developed with ASP.NET Core MVC, featuring a modern shopping experience and an administrative dashboard.
 ---
 ### Tech Stack
 
