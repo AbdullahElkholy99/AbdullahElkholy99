@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Abdullah Ali Elkholy
 
-### Full Stack Dot NET Developer | Angular Enthusiast 
+### Full Stack Dot NET Developer | Angular | React 
 
 Full Stack Dot NET Developer specializing in Backend ASP Dot Net Core, AngularJS, and scalable enterprise applications. Experienced in building RESTful APIs, real-time applications with SignalR, and secure authentication systems using JWT. Strong background in Clean Architecture, CQRS, and performance optimization with hands-on experience delivering AI powered and healthcare platforms.
 
