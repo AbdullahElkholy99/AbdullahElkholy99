@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Abdullah Ali Elkholy 👋
+# Abdullah Ali Elkholy
 
-### 🚀 Full Stack .NET Developer | Angular | AI-Powered Systems
+### Full Stack .NET Developer — ASP.NET Core · Angular · AI-Powered Systems
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Building+Scalable+.NET+%2B+Angular+Apps;Clean+Architecture+%7C+CQRS+%7C+SignalR;AI-Powered+Solutions+with+RAG+%2B+OpenAI+%2B+Qdrant;Turning+Complex+Requirements+into+Reliable+Systems" alt="Typing SVG" />
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 
 ```yaml
 name: Abdullah Ali Elkholy
@@ -29,26 +29,26 @@ currently: 9-Month Full Stack .NET & Angular Diploma (ITI)
 mission: "Turning complex requirements into clean, reliable, production-grade systems"
 ```
 
-I'm a Full Stack .NET Developer specializing in **ASP.NET Core**, **Angular**, **Clean Architecture**, and **CQRS**. I build secure, scalable RESTful APIs, real-time features with **SignalR**, and AI-powered solutions using **RAG** and **LLM integration** with OpenAI and Qdrant. I care about writing clean, maintainable code more than just "making it work."
+I'm a Full Stack .NET Developer specializing in **ASP.NET Core**, **Angular**, **Clean Architecture**, and **CQRS**. I build secure, scalable RESTful APIs, real-time features with **SignalR**, and AI-powered solutions using **RAG** and **LLM integration** with OpenAI and Qdrant. I care about writing clean, maintainable code more than just making it work.
 
 ---
 
-## 💼 Experience
+## Experience
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Clinic Management System
-**Freelance** · Aug 2026 – Aug 2026
-Healthcare desktop solution for patient records, consultation histories, vaccination tracking & practice analytics.
+**Clinic Management System**
+*Freelance · Aug 2026 – Aug 2026*
+Healthcare desktop solution for patient records, consultation histories, vaccination tracking, and practice analytics.
 `C#` `WPF` `MVVM` `EF Core` `LINQ` `SignalR`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Educational Center Management System
-**Freelance** · Jul 2026 – Jul 2026
+**Educational Center Management System**
+*Freelance · Jul 2026 – Jul 2026*
 Management platform for attendance, students, exams, and fee tracking using Clean Architecture.
 `ASP.NET Core` `React` `SQL Server`
 
@@ -57,16 +57,16 @@ Management platform for attendance, students, exams, and fee tracking using Clea
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Backend ASP.NET Developer
-**ITI Suez** · Jul 2024 – Sep 2024
-Developed an Employee Management System with full CRUD operations; optimized EF queries to cut response time.
+**Backend ASP.NET Developer**
+*ITI Suez · Jul 2024 – Sep 2024*
+Developed an Employee Management System with full CRUD operations; optimized EF Core queries to reduce response time.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 Web Designer
-**NTI Menoufia** · May 2025 – Jul 2025
-Achieved 94% in web development fundamentals, focused on clean code & responsive design.
+**Web Designer**
+*NTI Menoufia · May 2025 – Jul 2025*
+Achieved a 94% score in web development fundamentals; focused on clean code and responsive design.
 
 </td>
 </tr>
@@ -74,33 +74,33 @@ Achieved 94% in web development fundamentals, focused on clean code & responsive
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### ⚖️ Marjaa Platform — *ITI Graduation Project*
-> AI-powered legal platform for the Egyptian legal market
-- Architected with **ASP.NET Core**, **Angular**, **Clean Architecture**, **CQRS**, **SQL Server**
-- Implemented **Agentic RAG** pipeline using **OpenAI Embeddings** + **Qdrant Vector DB**
+**Marjaa Platform** — *ITI Graduation Project*
+AI-powered legal platform for the Egyptian legal market.
+- Architected with ASP.NET Core, Angular, Clean Architecture, CQRS, SQL Server
+- Implemented an Agentic RAG pipeline using OpenAI Embeddings and Qdrant Vector Database
 
-### 🏥 PhysioCare App — *College Graduation Project* · 190/200 (Excellent)
-> Healthcare platform for online, in-clinic & at-home consultations
-- **CQRS + MediatR**, **JWT Auth**, **Google Sign-In**, **Stripe** payments, rate limiting
-- Secure RESTful APIs with ASP.NET Core & EF Core
-- 🔗 [Swagger Docs](https://physiocareapp.runasp.net/swagger/index.html)
+**PhysioCare App** — *College Graduation Project · Grade: 190/200 (Excellent)*
+Healthcare platform for online, in-clinic, and at-home consultations.
+- CQRS + MediatR, JWT authentication, Google Sign-In, Stripe payments, rate limiting
+- Secure RESTful APIs built with ASP.NET Core and EF Core
+- [Swagger Documentation](https://physiocareapp.runasp.net/swagger/index.html)
 
-### 🏍️ MotorVerse Rental
-> Full-stack motorcycle rental & accessories marketplace
-- **ASP.NET Core Web API**, **Angular**, **SignalR**, **Hangfire**
+**MotorVerse Rental**
+Full-stack motorcycle rental and accessories marketplace.
+- ASP.NET Core Web API, Angular, SignalR, Hangfire
 
-### 🏋️ Gym Management System
-> End-to-end app for memberships, subscriptions, attendance & trainer management
+**Gym Management System**
+End-to-end application for memberships, subscriptions, attendance, and trainer management.
 
-### 🌸 Sillage E-Commerce
-> Luxury fragrance e-commerce platform with modern storefront & admin dashboard
-- **ASP.NET Core MVC**
+**Sillage E-Commerce**
+Luxury fragrance e-commerce platform with a modern storefront and admin dashboard.
+- ASP.NET Core MVC
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -153,39 +153,42 @@ Achieved 94% in web development fundamentals, focused on clean code & responsive
 
 ---
 
-## 🎓 Education
+## Education
 
 | Institution | Program | Details |
 |---|---|---|
-| **ITI** | 9-Month Full Stack .NET & Angular Diploma | Oct 2025 – Aug 2026 · Graduation Project: Marjaa Platform |
-| **Menoufia University** | BSc Computer Science | Oct 2021 – May 2025 · GPA 3.72/4.0, Excellent with Honors, Rank 5 |
+| ITI | 9-Month Full Stack .NET & Angular Diploma | Oct 2025 – Aug 2026 · Graduation Project: Marjaa Platform |
+| Menoufia University | BSc Computer Science | Oct 2021 – May 2025 · GPA 3.72/4.0, Excellent with Honors, Rank 5 |
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdullahElkholy99&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahElkholy99&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdullahElkholy99&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="49%" />
+<img src="https://streak-stats.demolab.com?user=AbdullahElkholy99&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahElkholy99&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahElkholy99&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" width="49%" />
 
 </div>
 
+> Note: these stat cards are generated live by third-party services (github-readme-stats, streak-stats). They render correctly once this file lives in a public GitHub repository named exactly like your username; they may appear broken in previews outside GitHub.
+
 ---
 
-## 🌱 Currently Exploring
-- Advanced Angular patterns & state management
-- Retrieval-Augmented Generation (RAG) & LLM-powered systems
+## Currently Exploring
+
+- Advanced Angular patterns and state management
+- Retrieval-Augmented Generation (RAG) and LLM-powered systems
 
 ---
 
 <div align="center">
 
-### 💬 Let's Build Something Amazing Together
+### Let's Build Something Amazing Together
 
-📧 abdullah.ali.elkholy@gmail.com &nbsp;|&nbsp; 📱 +20 101 261 3453 &nbsp;|&nbsp; 📍 Cairo, Egypt
+abdullah.ali.elkholy@gmail.com &nbsp;·&nbsp; +20 101 261 3453 &nbsp;·&nbsp; Cairo, Egypt
 
 *"I love solving complex problems with clean, efficient code."*
 
