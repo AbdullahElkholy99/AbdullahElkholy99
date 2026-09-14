@@ -162,8 +162,18 @@ Luxury fragrance e-commerce platform with a modern storefront and admin dashboar
 
 ---
 
-### GitHub Stats
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahElkholy99&show_icons=true&theme=radical)
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbdullahElkholy99&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="49%" />
+<img src="https://streak-stats.demolab.com?user=AbdullahElkholy99&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahElkholy99&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" width="49%" />
+
+</div>
+
+> Note: these stat cards are generated live by third-party services (github-readme-stats, streak-stats). They render correctly once this file lives in a public GitHub repository named exactly like your username; they may appear broken in previews outside GitHub.
 
 ---
 
